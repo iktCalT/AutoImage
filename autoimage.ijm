@@ -2,7 +2,7 @@
 // Version 3.0 Can read parameters from csv file
 
 
-//setBatchMode(true);  // If you set BatchMode as true, then there won't be so many pop-out windows
+//setBatchMode(true);  // If you set BatchMode as true, then there won't be so many popups.
 
 // Initial parameter
 input_path = "D:/LibrariesInD/Desktop/Test/ThorCam/G_230118_2_2/";
