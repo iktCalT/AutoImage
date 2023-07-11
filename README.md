@@ -1,4 +1,4 @@
-It will delete the images without large enough identified regions. So! Please back up the images before you test the codes!
+## It will delete the images without large enough identified regions. So! Please back up the images before you test the codes!
 
 # AutoImage
 Automatic image analysis
