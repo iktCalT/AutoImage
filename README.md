@@ -9,5 +9,5 @@ An ImageJ micro to identify sample thickness with optical images. But you need t
   2. Added some examples.
 
 11th Jul. 2023 
-  *Added a parameter called "remove_undesired_images", default as "N".  
+  * Added a parameter called "remove_undesired_images", default as "N".  
   If it is "Y", then the micro will delete all undesired images (without large enough flakes). If it is "N", all undesired images will be stored in an isolated folder.
