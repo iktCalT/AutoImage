@@ -1,7 +1,9 @@
 // Version 3.0 Added wait time & HSV thresholds
 // Version 4.0 Can read parameters from csv file
 
+
 //setBatchMode(true);  // If you set BatchMode as true, then it won't have so many windows pop-ups
+
 
 // Read parameter from a CSV file
 para_file = "D:/LibrariesInD/Desktop/Test/Parameters.csv";
@@ -283,4 +285,4 @@ while (true) {
 
 print("Process finished!");
 
-//setBatchMode(false);
+setBatchMode(false);
